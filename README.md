@@ -10,3 +10,5 @@ Here are the Python projects I have completed so far:
 * **[Hello World](my-first-repo/hello_world)**, a basic Python program that prints text
 
 I will add additional projects to this repo as I complete them.
+
+This is my first edit from VS code.
