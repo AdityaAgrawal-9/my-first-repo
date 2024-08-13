@@ -12,3 +12,4 @@ Here are the Python projects I have completed so far:
 I will add additional projects to this repo as I complete them.
 
 This is my first edit from VS code.
+This is my first edit from IntelliIJ
